@@ -1,0 +1,22 @@
+{
+  "weekly_budget": 1500,
+  "categories": {
+    "food": {"weekly_limit": 500, "keywords": ["food", "lunch", "dinner", "breakfast", "snacks", "swiggy", "zomato", "restaurant", "cafe"]},
+    "transport": {"weekly_limit": 300, "keywords": ["transport", "uber", "ola", "auto", "bus", "metro", "fuel", "petrol", "diesel", "rapido", "cab"]},
+    "sports_entertainment": {"weekly_limit": 350, "keywords": ["sports", "entertainment", "movie", "game", "gym", "sport", "cricket", "football", "ott", "netflix", "prime"]},
+    "shopping": {"weekly_limit": null, "keywords": ["shopping", "clothes", "electronics", "amazon", "flipkart", "gadget"]},
+    "bills": {"weekly_limit": null, "keywords": ["bill", "electricity", "water", "wifi", "internet", "recharge", "mobile", "phone", "rent"]},
+    "health": {"weekly_limit": null, "keywords": ["health", "doctor", "medicine", "pharmacy", "hospital", "medical", "gym", "fitness"]},
+    "miscellaneous": {"weekly_limit": null, "keywords": ["misc", "other", "general"]}
+  },
+  "credit_card": {
+    "tracked": true,
+    "separate_from_regular": true,
+    "card_names": []
+  },
+  "alert_thresholds": {
+    "warning": 0.8,
+    "critical": 1.0
+  },
+  "week_start_day": "monday"
+}
