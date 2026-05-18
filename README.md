@@ -1,4 +1,4 @@
-# Spending Tracker
+# AgentHermes (Personal Assistant)
 
 A personal spending tracker that works through Telegram. Log expenses naturally, get budget alerts, and visualize everything on a local web dashboard.
 
