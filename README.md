@@ -30,7 +30,7 @@ python3 cli.py add "Spent ₹200 on food via UPI — lunch"
 python3 cli.py summary
 ```
 
-Open `http://localhost:8765` for the dashboard, or use the public ngrok tunnel at:\n**[https://nervous-excess-idiocy.ngrok-free.dev](https://nervous-excess-idiocy.ngrok-free.dev)**
+Open `http://localhost:8765` for the dashboard, or use the public ngrok tunnel at:\n**[https://nervous-excess-idiocy.ngrok-free.dev)**
 
 ## Project Structure
 
